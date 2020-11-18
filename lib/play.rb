@@ -44,4 +44,3 @@ while i < 9
   turn(board)
 end
 end
-end
