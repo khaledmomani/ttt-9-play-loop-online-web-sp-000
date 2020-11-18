@@ -45,6 +45,3 @@ while i < 9
 end
 end
 
-play(board)
-
-end
